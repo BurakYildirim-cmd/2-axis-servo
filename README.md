@@ -32,11 +32,11 @@ Additionally, a relay can be triggered when the object is detected.
 9. Relay is activated when object is detected
 
 ## Hardware Requirements
--Raspberry Pi (with GPIO support)
--USB or CSI Camera
--2x Servo Motors (X and Y axis)
--Relay Module
--External power supply (recommended for servos)
+- Raspberry Pi (with GPIO support)
+- USB or CSI Camera
+- 2x Servo Motors (X and Y axis)
+- Relay Module
+- External power supply (recommended for servos)
 
 ## Dependencies
 ```bash
@@ -51,6 +51,6 @@ python3 main.py <unused> <camera_width> <camera_height> <camera_index>
 python3 main.py 0 640 480 0
 ```
 ## GPIO Configuration
--Servo X - GPIO 11
--Servo Y - GPIO 13
--Relay - GPIO 15
+- Servo X - GPIO 11
+- Servo Y - GPIO 13
+- Relay - GPIO 15
