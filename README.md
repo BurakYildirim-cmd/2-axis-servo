@@ -12,13 +12,13 @@ The system detects a red-colored object from a live camera feed and automaticall
 Additionally, a relay can be triggered when the object is detected.
 
 ## Features
--Real-time camera stream processing (OpenCV)
--Color-based object detection (HSV filtering)
--Object tracking using contour detection
--PID control for smoother movement
--Dual-axis servo motor control (X & Y)
--GPIO relay control (on object detection)
--Raspberry Pi hardware integration
+- Real-time camera stream processing (OpenCV)
+- Color-based object detection (HSV filtering)
+- Object tracking using contour detection
+- PID control for smoother movement
+- Dual-axis servo motor control (X & Y)
+- GPIO relay control (on object detection)
+- Raspberry Pi hardware integration
 
 ## How It Works
 1. Camera captures live video feed
