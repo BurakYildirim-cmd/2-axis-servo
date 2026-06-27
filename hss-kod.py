@@ -6,12 +6,10 @@ import RPi.GPIO as GPIO
 from time import sleep
 from random import randint
 
-# PID parametreleri
-Kp = 0.5  # Oransal kazanç
-Ki = 0.1  # İntegral kazanç
-Kd = 0.05 # Türevsel kazanç
+Kp = 0.5
+Ki = 0.1
+Kd = 0.05
 
-# PID denetleyicisi değişkenleri
 previous_error_x = 0
 integral_x = 0
 previous_error_y = 0
