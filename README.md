@@ -1,8 +1,8 @@
 ## Raspberry Pi Object Tracking System (OpenCV + Servo + PID)
 ## Table of Contents
 
-- [How It Works](#HowItWorks)
-- [How to Run](#HowtoRun)
+- [How It Works](#How-It-Works)
+- [How to Run](#How-to-Run)
 
 **About the Project**
 
