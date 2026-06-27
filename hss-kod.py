@@ -29,8 +29,7 @@ servo_y = GPIO.PWM(13, 50)
 
 # Röle kontrolü için GPIO 15
 GPIO.setup(15, GPIO.OUT)
-GPIO.output(15, GPIO.LOW)  # Röleyi kapalı olarak başlat
-
+GPIO.output(15, GPIO.LOW)
 servoDegerX = 105
 servoDegerY = 105
 
