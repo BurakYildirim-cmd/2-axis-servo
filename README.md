@@ -51,6 +51,6 @@ python3 main.py <unused> <camera_width> <camera_height> <camera_index>
 python3 main.py 0 640 480 0
 ```
 ## GPIO Configuration
-- Servo X - GPIO 11
-- Servo Y - GPIO 13
-- Relay - GPIO 15
+- Servo X to GPIO 11
+- Servo Y to GPIO 13
+- Relay to GPIO 15
