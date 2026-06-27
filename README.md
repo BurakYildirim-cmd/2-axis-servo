@@ -1,4 +1,9 @@
 ## Raspberry Pi Object Tracking System (OpenCV + Servo + PID)
+## Table of Contents
+
+- [How It Works](#HowItWorks)
+- [How to Run](#HowtoRun)
+
 **About the Project**
 
 This project is a real-time object tracking and control system using a Raspberry Pi, OpenCV, and servo motors.
